@@ -10,5 +10,7 @@
     <span>测试一下是否能修改就文件</span>
     <a href="https://baidu.com">百度</a>
 	<h1>加油 - 不能平庸</h1>
+    <hr>
+    <a href="./new.html">new</a>
 </body>
 </html>
